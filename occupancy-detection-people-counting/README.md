@@ -4,6 +4,8 @@ Occupancy detection and people counting are increasingly important capabilities 
 
 You can find measurement dataset in csv format in the compressed file "Melexis_measurement_20220328.zip".
 
+The algorithm of the paper is available in "GRADUS_persons_counting_algorithm.ipynb". It is a Google Colan notebook, some of the results can be generated only with the measueremnt input file (Melexis_measurement_20220328.csv) present in Colab system. 
+
 Measurement in a meeting room:
 
 
