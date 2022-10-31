@@ -2,6 +2,8 @@ Conference paper: HUMAN DETECTION USING THERMAL ARRAY SENSOR AND HIERARCHICAL CL
 
 Occupancy detection and people counting are increasingly important capabilities for smart solutions. For this purpose, in our research we use a thermal sensor array placed on the ceiling of an office. To determine the number of people present, we use a threshold based hierarchical clustering method, which makes successful detection very reliable under normal conditions.
 
+You can find measurement dataset in csv format in the compressed file "Melexis_measurement_20220328.zip".
+
 Measurement in a meeting room:
 
 
